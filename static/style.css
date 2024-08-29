@@ -1,0 +1,49 @@
+body {
+    background-image: url(pics/Commissions-JaiBust-WhiteVer.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img {
+    width: 400px;
+    height: fit-content;
+}
+.Box1 {
+    width: 500px;
+    height: fit-content;
+    border-style: groove;
+    border-color: grey;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px;
+}
+.Box2 {
+    width: 300px;
+    height: fit-content;
+    border-style: groove;
+    border-color: grey;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px;
+}
+.Box3 {
+    width: 500px;
+    height: fit-content;
+    border-style: groove;
+    border-color: grey;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px;
+}
+.Box4 {
+    width: 500px;
+    height: fit-content;
+    border-style: groove;
+    border-color: grey;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px;
+}
+.Box5 {
+    width: 1000px;
+    height: fit-content;
+    border-style: groove;
+    border-color: grey;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px;
+}

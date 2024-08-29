@@ -1,0 +1,37 @@
+.Navbar {
+    grid-row: span 8;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content1 {
+    display: grid;
+    grid-template-columns: 1fr repeat(6, minmax(auto, 10em)) 1fr;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content2 {
+    display: grid;
+    grid-template-rows: minmax(1em, auto) 1fr auto minmax(1em, auto); 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content3 {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content4 {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Box1 {
+    grid-column: 2/6;
+}
+.Box2 {
+    grid-column: 6/8;
+}
+.Box3 {
+    grid-row: 5/8;
+}
+.Box4 {
+    grid-row: 5/8;
+}
